@@ -1,0 +1,2 @@
+я хочу создать онлайн магазин, где пользователь сможет купить продукты
+таблицы: User, Product, Category, Order, Customers, Admin, Role, Permissions
